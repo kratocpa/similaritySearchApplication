@@ -3,7 +3,7 @@ Minimal fastapi application which allows the user to send a query and which retu
 
 ## Run
 ```
-git clone
+git clone https://github.com/kratocpa/similaritySearchApplication.git
 ```
 ```
 pip install -r requirements.txt
