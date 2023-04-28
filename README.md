@@ -33,6 +33,6 @@ This endpoint can be used for searching
 Specific examples
 ```
 http://127.0.0.1:8000/search_relevant_companies?search_term=autoservisy&size=10
-http://127.0.0.1:8000/search_relevant_companies?search_term=firmy,%20ktere%20pouzivaji%20CNC%20stroje&size=10
+http://127.0.0.1:8000/search_relevant_companies?search_term=firmy, ktere pouzivaji CNC stroje&size=10
 ```
 
